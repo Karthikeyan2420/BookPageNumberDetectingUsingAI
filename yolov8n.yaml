@@ -1,0 +1,8 @@
+# yolov8n.yaml
+path: C:\Users\kkpr2\OneDrive\Documents\karthikeyandev\yolo_page_number\yolo_page_number\datasets\data
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: page_number
